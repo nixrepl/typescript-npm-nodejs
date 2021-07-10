@@ -1,0 +1,2 @@
+run="echo \"Add something to your .replit file so your program can run!\""
+language="nix"
